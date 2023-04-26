@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BankManagement
+comment1.params=
+comment1.target=BankManagement()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=int\ promptAccountNumber()
+comment4.params=
+comment4.target=java.lang.String\ promptUsername()
+comment5.params=
+comment5.target=java.lang.String\ promptPassword()
+comment6.params=
+comment6.target=int\ promptMenu()
+comment7.params=accountNumber
+comment7.target=void\ deposit(int)
+comment8.params=accountNumber
+comment8.target=void\ withdraw(int)
+comment9.params=accountNumber
+comment9.target=void\ takeLoan(int)
+numComments=10
